@@ -19,9 +19,9 @@ pip install -r requirements.txt
 python main_gateway.py
 
 ## Project Structure
-injection_detector.py – detects prompt injection  
-pii_detector.py – detects sensitive information  
-policy_engine.py – security decision logic  
+detector.py – detects prompt injection  
+presidio_ext.py – detects sensitive information  
+policy.py – security decision logic  
 main_gateway.py – gateway execution script
 
 
