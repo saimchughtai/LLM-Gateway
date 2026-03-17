@@ -26,4 +26,4 @@ main_gateway.py – gateway execution script
 
 
 
-Educational Project
+
